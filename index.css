@@ -1,0 +1,56 @@
+body{
+	margin: 0;
+	background-color: lightgrey;
+}
+#input{
+	width: 75%;
+	text-align: center;
+	margin: 0 auto;
+}
+h1{
+	color: darkslategrey;
+	text-align: center;
+}
+#task{
+	padding: 13px;
+	border-radius: 5px;
+	color: darkslategrey;
+	border: 1px solid grey;
+	font-size: 16px;
+}
+button {
+	padding: 13px;
+	border-radius: 3px;
+	color: darkslategrey;
+	font-weight: 550;
+	font-size: 16px;
+}
+#add{
+	background-color: lightseagreen;
+}
+#clear{
+	background-color: red;
+}
+.remove{
+	background-color: yellow;
+	color: darkslategrey;
+	font-size: 14px;
+	padding: 10px;
+	margin-left: 20px;
+}
+ul{
+	width: 75%;
+	margin: 20px auto;
+	text-align: center;
+}
+li{
+	list-style-type: none;
+	color: blue;
+	font-weight: 500;
+	font-size: 2.0em;
+}
+
+
+
+
+
